@@ -44,6 +44,10 @@ figure{
 .side-massage{
     border: 2px solid red;
 }
+.head_info{
+    font-weight: 500;
+    font-size:small;
+}
 /* icon styles */
 .hover-black{
     color: gray;
@@ -120,3 +124,26 @@ figure{
     position: relative;
 }
 /* shadows and colors END*/
+.btn-yellow{
+    background-color: rgb(255, 255, 186);
+    color: gray;
+}
+.btn-yellow:hover{
+    background-color: rgb(255, 255, 186);
+}
+.save-btn{
+    font-size: 12px;
+    font-weight: 500;
+}
+.Text-Link{
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    font-weight: bolder;
+    transition: all ease-in-out 0.1s;
+}
+.Text-Link:hover{
+    color: rgb(56, 12, 255);
+    font-size: 15px;
+    font-weight: bolder;
+    transition: all ease-in-out 0.1s;
+}
